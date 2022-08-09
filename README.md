@@ -4,3 +4,18 @@
 ## Alternative:![beziehung-bei-diesen-saetzen-werden-frauen-sauer-image](https://user-images.githubusercontent.com/110892649/183603201-d609523e-f862-46fd-b69a-70dfcea9a020.jpg)
 
 ## Falls es noch unklarheiten gib, *Hier* draufklicken: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```c#
+using System;
+
+nampespace FrauenInDieKüche
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Frauen In Die Küche!");
+    }
+  }
+} ```
+ 
+ 
